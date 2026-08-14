@@ -1,4 +1,4 @@
-# Rogue6
+# Aires
 
 A digital child. A research project that builds a learning machine from scratch, one that grows the way a toddler grows: first letters, then numbers, then words, then the relationships between words, then its own voice.
 
